@@ -1,16 +1,8 @@
 
-## [下载](http://htmlpreview.github.io/?https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/install.html)
+## 下载
 
+[行政处罚](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/manifest.plist)
 
-<a href="itms-services:///?action=download-manifest&amp;url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/manifest.plist" alt="download">
+## 跳转
 
-<!-- <img src="https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/download.png" >  -->
-点击下载1
-</a>
-
-
-
-
-
-
-[点击下载2](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/manifest.plist)
+[跳转](https://raw.githubusercontent.com/1ilI/TestMyipa/master/PunishmentAider/install.html)
