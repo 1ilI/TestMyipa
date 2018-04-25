@@ -1,29 +1,28 @@
-theme: jekyll-theme-cayman
+title: TestMyipa
+description: 一个基于 GitHub 的测试下载平台
+show_downloads: true
 
-baseurl: "/TestMyipa" # the subpath of your site, e.g. /blog
-url: "https://1ili.github.io/TestMyipa/" # the base hostname & protocol for your site
+baseurl: "/TestMyipa" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://1ili.github.io/TestMyipa/" # change this to the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+cayman-blog:
+  date_format: "%b %-d, %Y"
 
+theme: # leave it empty
 
-# Build settings
-markdown: kramdown
+qq_number: 894857383
+github_username: 1ilI
+email: zhangyue_developer@icloud.com
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# port
-# port: 1234
-
-# url
-category_dir: category/
-tag_dir: tag/
-
-
-# excerpt
-excerpt_separator: "\n\n\n\n"
-
-# paginate
-gems: [jekyll-paginate]
-paginate: 6
+# # social
+# author: "Lore Pirri"
+# image: /thumbnail-jumbo.png
+# twitter:
+#   username: lorepirri
+# #  site:
+# facebook:
+#   #publisher: 1592372034171500
+#   #profile_id: 1809805629
+#   app_id: 1798910940422432 # cayman-blog
+#   #authors: lorepirri
+# #  admins:
