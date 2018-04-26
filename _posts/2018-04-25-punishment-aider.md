@@ -21,7 +21,7 @@ title: "行政处罚项目"
 
 ## 安装方式
 
-* 在 safari 浏览器中，[点击安装](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/PunishmentAider/manifest.plist)
+* 在 safari 浏览器中，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/PunishmentAider/manifest.plist)
 
 
 * 使用「相机」扫描二维码安装☟
