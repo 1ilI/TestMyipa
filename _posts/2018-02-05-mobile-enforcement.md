@@ -24,7 +24,7 @@ title: "移动执法项目"
 
 ## 安装方式
 
-* [点击安装](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/MobileEnforcement/manifest.plist)
+* [点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/MobileEnforcement/manifest.plist)
 
 
 * 扫描二维码安装☟
