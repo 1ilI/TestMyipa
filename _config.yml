@@ -3,7 +3,7 @@ description: 一个基于 GitHub 的测试下载平台
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://1ili.github.io/TestMyipa" # change this to the base hostname & protocol for your site
+url: "https://1ili.github.io/TestMyipa/" # change this to the base hostname & protocol for your site
 
 cayman-blog:
   date_format: "%b %-d, %Y"
