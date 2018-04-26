@@ -5,11 +5,7 @@ title: "行政处罚项目"
 
 * content
 {:toc}
-
-------
-
-行政处罚项目 — 集查处一体的环保法律应用
-
+<div align="center"> <img alt="icon" src="https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/PunishmentAider/icon.png" width="30%"/> <p>行政处罚项目 — 集查处于一体的环保法律应用</p> </div>
 
 
 
