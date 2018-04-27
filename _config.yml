@@ -14,6 +14,12 @@ qq_number: 894857383
 github_username: 1ilI
 email: zhangyue_developer@icloud.com
 
+gitalk:
+    owner: 1ilI
+    repo: blog-comments
+    clientID: 2e32dfb3159f881371a2
+    clientSecret: a186326084ea049d0b25a921c092f31ffc1096c8
+
 # # social
 # author: "Lore Pirri"
 # image: /thumbnail-jumbo.png
