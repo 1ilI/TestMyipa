@@ -24,10 +24,10 @@ permalink: /about.html
 3. 根据上述地址填写相关信息，生成 `manifast.plis` 文件（这个文件也可由第一步打包时填写生成）
 4. 把 `manifast.plis` 文件上传，获取其地址
 5. 生成最后 iPhone 能用的下载地址，格式如下： <br/>
-itms-services://?action=download-manifest&url=`manifest.plist的地址`
+`itms-services://?action=download-manifest&url=manifest.plist的地址`
 6. 最后使用 GitHub Page 引用这个地址，写成一个页面，手机端 safari 浏览器打开，点击安装
 
-若在打包时勾选了 **Incloud manifest for over-the-air installtion** 的话，会让你输入 ipa的下载地址、图标的地址等信息
+若在打包时勾选了 **Incloud manifest for over-the-air installtion** 的话，会让你输入 ipa的下载地址、图标的地址等信息，最后会生成 plist 文件，这样就不用自己手动新建啦
 
 ![xcode-step](https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/images/xcode-step.png)
 
@@ -77,6 +77,8 @@ itms-services://?action=download-manifest&url=`manifest.plist的地址`
 </dict>
 </plist>
 ```
+
+**关于最后一步，你可以直接 clone、下载或 fork 我这个仓库的代码 [https://github.com/1ilI/TestMyipa](https://github.com/1ilI/TestMyipa)，把里面的资源换成你自己的，主要是 `resource` 和 `_post` 这两个文件夹内的东西，然后部署上去，当然你也可自己找主题做这个界面。如果你觉得还不错，请给我个 start 以示鼓励吧，欢迎大家使用～**
 
 ## 最后
 
