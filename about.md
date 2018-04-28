@@ -80,6 +80,15 @@ permalink: /about.html
 
 **关于最后一步，你可以直接 clone、下载或 fork 我这个仓库的代码 [https://github.com/1ilI/TestMyipa](https://github.com/1ilI/TestMyipa)，把里面的资源换成你自己的，主要是 `resource` 和 `_post` 这两个文件夹内的东西，然后部署上去，当然你也可自己找主题做这个界面。如果你觉得还不错，请给我个 start 以示鼓励吧，欢迎大家使用～**
 
+## 附则：
+
+今天才发现，邮箱里被 GitHub 警告了好多次(ｰ ｰ;)，大意就是说，他们虽然给你构建完页面了，但是检测到你好像用它来分发 ipa 包，他们强烈建议你用 GitHub 的方式分发应用包。
+![github-warning](https://raw.githubusercontent.com/1ilI/1ilI.github.io/master/resource/2018-04/github-warning.jpg)
+
+虽然页面什么的看起来都没有问题，但是每次上传部署后，GitHub 都会发一封这样的邮件给你，邮箱不得爆炸了 <br/> (╯°□°）╯︵ ┻━┻
+
+最后解决方式是 再建一个仓库，不开 GitHub Pages，把之前的包资源文件，我放在 `resource` 这个文件夹里的东西，全都挪到新仓库里去，那里只存储所有的包资源，然后修改一下引用地址就 OK 啦。
+
 ## 最后
 
 本站使用了 [Cayman Blog](https://github.com/lorepirri/cayman-blog) 主题，在此感谢～
