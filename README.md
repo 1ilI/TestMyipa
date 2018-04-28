@@ -17,7 +17,7 @@
 
 ## 效果
 
-![result](https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/images/result.gif)
+![result](https://raw.githubusercontent.com/1ilI/1ilI.github.io/master/resource/2018-04/result.gif)
 
 ## 使用
 
@@ -31,7 +31,7 @@
 
 若在打包时勾选了 **Incloud manifest for over-the-air installtion** 的话，会让你输入 ipa的下载地址、图标的地址等信息，最后会生成 plist 文件，这样就不用自己手动新建啦
 
-![xcode-step](https://raw.githubusercontent.com/1ilI/TestMyipa/master/resource/images/xcode-step.png)
+![xcode-step](https://raw.githubusercontent.com/1ilI/1ilI.github.io/master/resource/2018-04/xcode-step.png)
 
 最后的 `manifast.plis` 文件，手写也行，生成的也可，其中内容可如下所示：
 ```
