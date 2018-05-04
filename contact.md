@@ -4,9 +4,6 @@ title: Contact
 tagline: 
 ---
 
-
-* [点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MyTest/manifest.plist)
-
 <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
