@@ -24,10 +24,10 @@ title: "移动执法项目"
 
 ## 安装方式
 
-* [点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MobileEnforcement/manifest.plist)
+* 在手机 Safari 浏览器上，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MobileEnforcement/manifest.plist)
 
 
-* 扫描二维码安装☟
+* iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
 <img alt="downloadImage" src="https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MobileEnforcement/download.png" width="50%"/>
 

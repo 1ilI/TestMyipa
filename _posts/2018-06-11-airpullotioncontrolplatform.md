@@ -26,7 +26,7 @@ title: "大气污染防治指挥平台"
 * 在手机 Safari 浏览器上，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/AirPullotionControlPlatform/manifest.plist)
 
 
-* 扫描二维码安装☟
+* iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
 <img alt="downloadImage" src="https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/AirPullotionControlPlatform/download.png" width="50%"/>
 
