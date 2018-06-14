@@ -26,6 +26,9 @@ title: "大气污染防治指挥平台"
 ### 2108.06.13 - v1.2.0
 指派类的人员展示、待办列表导航、标题等
 
+### 2108.06.14 - v1.3.0
+打卡时未开启位置服务，予以提示、修改密码
+
 ## 安装方式
 
 * 在手机 Safari 浏览器上，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/AirPullotionControlPlatform/manifest.plist)
