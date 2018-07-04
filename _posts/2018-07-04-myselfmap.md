@@ -5,7 +5,7 @@ title: "👣我的足迹"
 
 * content
 {:toc}
-<div align="center"> <img alt="icon" src="https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MyselfMap/icon.png" width="30%"/> <p>大气污染防治平台项目 — 衡水市环保局的一款大气污染防治指挥调度平台的应用</p> </div>
+<div align="center"> <img alt="icon" src="https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/MyselfMap/icon.png" width="30%"/> <p>👣我的足迹 — 基于CoreData的一款根据GPS信息记录速度、时间及路线的应用</p> </div>
 
 
 
