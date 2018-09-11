@@ -27,6 +27,9 @@ title: "环境执法大练兵"
 
 新上传项目
 
+### 2108.09.11 - v1.0.1
+更新部分功能，布置到外网环境
+
 
 ## 安装方式
 
@@ -35,7 +38,7 @@ title: "环境执法大练兵"
 　　　[地址一](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/LEPractice/manifest.plist)　　　[地址二](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/1ilI/TestMyipa_Resource/master/resource/LEPractice/manifest-2.plist)
 
 
-地址二 为内网地址
+地址二 为非GitHub网地址
 
 * iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
